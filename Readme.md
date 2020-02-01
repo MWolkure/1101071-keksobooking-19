@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Марта Вилкайте](https://up.htmlacademy.ru/javascript/19/user/1101071).
-* Наставник: `Неизвестно`.
+* Наставник: Сергей Шершнев.
 
 ---
 
